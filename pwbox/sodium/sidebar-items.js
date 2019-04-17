@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Sodium","Suite for password-based encryption provided by `libsodium`."]],"struct":[["Scrypt","`Scrypt` key derivation function parameterized as per libsodium, i.e., via `opslimit` (computational hardness) and `memlimit` (RAM consumption)."],["XSalsa20Poly1305","`xsalsa20` symmetric cipher with `poly1305` MAC."]]});
